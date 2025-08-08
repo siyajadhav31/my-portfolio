@@ -5,7 +5,7 @@ This is a personal portfolio website built using **React**. It showcases my proj
 
 ## 🚀 Live Demo
 
-👉 [Visit Portfolio Website](https://siyajadhav31.github.io/my-portfolio)
+👉 [Visit Portfolio Website](https://siyajadhav31.github.io/my-portfolio/)
 
 
 ## 🛠 Tech Stack
